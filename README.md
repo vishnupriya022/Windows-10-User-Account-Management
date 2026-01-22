@@ -30,7 +30,7 @@ This project demonstrates **User Account Management tasks** in Windows 10. It in
 - Settings → Accounts → Family & other users → Select user → Remove → Delete account and data  
 
 ## Screenshots
-All screenshots of tasks are in the ![Windows 10 User Account Management](screenshots/UseraccounttaskScreenshots.png)
+ ![Windows 10 User Account Management](screenshots/UseraccounttaskScreenshots.png)
 
 ## Conclusion
 This project helps understand basic user account management in Windows 10, an important skill for IT support.
