@@ -1,10 +1,13 @@
 Project Title
-# Windows 10 User Account Management in Oracle VirtualBox
+
+# Windows 10 User Account Management 
 
 ## Overview
-This project demonstrates **User Account Management tasks** in Windows 10 using Oracle VirtualBox. It includes step-by-step instructions, screenshots, and notes.
+
+This project demonstrates **User Account Management tasks** in Windows 10. It includes step-by-step instructions, screenshots, and notes.
 
 ## Tasks Covered
+
 1. Create a new user account
 2. Reset a user account password
 3. Change a user account password
@@ -27,7 +30,7 @@ This project demonstrates **User Account Management tasks** in Windows 10 using 
 - Settings → Accounts → Family & other users → Select user → Remove → Delete account and data  
 
 ## Screenshots
-All screenshots of tasks are in the `User_account_task-Screenshots` folder.
+All screenshots of tasks are in the ![Windows 10 User Account Management](User_account_task-Screenshots)
 
 ## Notes
 Detailed steps and observations are in the `Notes_user-account-tasks.txt` file.
