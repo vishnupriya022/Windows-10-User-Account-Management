@@ -32,8 +32,5 @@ This project demonstrates **User Account Management tasks** in Windows 10. It in
 ## Screenshots
 All screenshots of tasks are in the ![Windows 10 User Account Management](User_account_task-Screenshots)
 
-## Notes
-Detailed steps and observations are in the `Notes_user-account-tasks.txt` file.
-
 ## Conclusion
 This project helps understand basic user account management in Windows 10, an important skill for IT support.
